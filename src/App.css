@@ -1,0 +1,74 @@
+.calc{
+height: 100px;
+width: 320px;
+margin: 60px auto;
+padding-top: 0px ;
+padding-left: 18px;
+
+
+}
+
+
+#input{
+
+ background-color: rgb(30, 34, 46);
+ width: 285px ;
+ height: 70px;
+ text-align: right;
+ border: 6px solid #ffffff;
+ font-weight: bold;
+ font-size: 6vh;
+ color: #ffffff;
+ 
+ /* border-radius: 20px; */
+
+ 
+    
+}
+
+.but{
+
+    background: 	#5A5A5A;
+    height: 78px;
+    width: 75px;
+    color: rgba(255, 255, 255, 0.959);
+    font-weight: bold;
+    font-size: 30px;
+    border: 1px solid #000;
+    float: left;
+    border-radius: 10px;
+    padding-left: 10px;
+    
+}
+
+.but:hover{
+    background-color: #2f034d;
+    color: rgb(35, 36, 36);
+}
+
+.but1{
+
+    width:150px ;
+
+}
+
+.original{
+
+    background-color:	#424242;
+    height: 490px;
+    width: 340px;
+    margin: 60px auto;
+    padding-bottom: 60px;
+    border-radius: 30px;
+}
+
+.container{
+
+height: 100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url("./painted-solid-concrete-wall-textured-background.jpg");
+
+}
